@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: java-api
+
+ml:
+  api:
+    url: http://localhost:8000/predict
